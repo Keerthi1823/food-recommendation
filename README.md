@@ -1,2 +1,3 @@
 # food-recommendation
-Created with CodeSandbox
+
+This app shows the food lists!!
